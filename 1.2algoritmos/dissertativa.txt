@@ -1,0 +1,11 @@
+digito1 = n-1
+digito2 = 10-n
+
+imprima ("digite um valor para ser multiplicado por 9: ")
+leia resposta;
+
+n = resposta;
+
+soma = digito * 10 = digito2;
+
+imprima ("o resultado de \n * 9")
